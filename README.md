@@ -1,2 +1,2 @@
 # Playground
-C Programs
+C++ Programs
